@@ -5,7 +5,7 @@ const CONFIG = {
     btnIntro: '^^j^^',
     title: 'Cậu có iu mik hong',
     desc: '???? ',
-    btnYes: 'iu ',
+    btnYes: 'iu lắm ',
     btnNo: 'Không nha :3',
     question: 'Thế thì tại sao ko rep tn mik vại',
     btnReply: 'Gửi cho bạn <3',
