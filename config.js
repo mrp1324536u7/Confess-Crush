@@ -12,7 +12,7 @@ const CONFIG = {
     reply: 'vì cậu đẹp trai',
     mess:  'ui cậu quá khen 🥰',
     messDesc: 'Thế thì rep tn mik từ tuần trc đi cậu ưi!!!',
-    btnAccept: 'OKI lun',
+    btnAccept: 'Oki lun',
   
     
     messLink: 'https://www.messenger.com/t/100075081210566' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
