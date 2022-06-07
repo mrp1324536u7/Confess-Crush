@@ -10,10 +10,8 @@ const CONFIG = {
     question: 'Trên thế giới có 7 tỉ người, tại sao cậu lại chọn mik vại <3',
     btnReply: 'Gửi cho bạn <3',
     reply: 'vì cậu đẹp trai',
-    mess:  'ui cậu quá khen 🥰',
+    mess:  'ui cảm ơn cậu nha 🥰',
     messDesc: 'Thế thì rep tn mik từ tuần trc đi cậu ưi!!!',
     btnAccept: 'OKI lun',
-  
-    
     messLink: 'https://www.messenger.com/t/100075081210566' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
