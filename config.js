@@ -1,9 +1,9 @@
 const CONFIG = {
     titleWeb: "bùn",
     introTitle: 'Nguyễn Trần Hoàng Linh',
-    introDesc: `Chào cậu!!!Tớ có chuỵn này mún nói với cậu`,
+    introDesc: `Chào cậu!!! Mik có chuỵn này mún nói với cậu`,
     btnIntro: 'j',
-    title: 'Cậu có iu mik hong',
+    title: 'Cậu có iu mik hăm',
     desc: '???? ',
     btnYes: 'iu lắm ',
     btnNo: 'Không nha :3',
